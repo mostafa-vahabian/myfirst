@@ -1,1 +1,1 @@
-var t = "";
+var t = "salam";
